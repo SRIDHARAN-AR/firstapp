@@ -6,4 +6,6 @@ COIMBATORE
 hobbies
 playing games
 reading books
-
+html 
+c++
+js
